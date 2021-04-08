@@ -10,7 +10,7 @@ Follow us on LinkedIn [here](https://www.linkedin.com/company/londoniac/) for al
 Please suggest a topic for a presentation on our [issues](https://github.com/londoniac/Londoniac-meetup/issues/new/choose) page.
 
 ## Submitting a talk
-If you'd like to present a talk, create a GitHub issue [issues](https://github.com/londoniac/Londoniac-meetup/issues/new/choose).
+If you'd like to present a talk, create a GitHub issue [here](https://github.com/londoniac/Londoniac-meetup/issues/new/choose).
 
 ## Sponsorship
 Are you hiring or looking to promote your business, can you provide us a space to run a meetup (once it's safe to do so), can you sponsor the Drinks and Pizza? If so, get in touch with me here: dennis@londoniac.co.uk
